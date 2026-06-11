@@ -73,6 +73,28 @@
       color: #123b3f;
     }
 
+    .language-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0 0 24px;
+    }
+
+    .language-links a {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: #123b3f;
+      font-size: 14px;
+      padding: 6px 12px;
+      text-decoration: none;
+    }
+
+    .language-links a[aria-current="page"] {
+      background: #123b3f;
+      border-color: #123b3f;
+      color: #ffffff;
+    }
+
     .contact {
       border-top: 1px solid var(--line);
       margin-top: 32px;
@@ -95,6 +117,13 @@
 <body>
   <main>
     <article>
+      <nav class="language-links" aria-label="Language">
+        <a href="privacy-policy.html" aria-current="page">한국어</a>
+        <a href="privacy-policy-en.html">English</a>
+        <a href="privacy-policy-zh-Hans.html">简体中文</a>
+        <a href="privacy-policy-ja.html">日本語</a>
+      </nav>
+
       <h1>마진 계산기 개인정보처리방침</h1>
       <p class="meta">시행일: 2026년 5월 19일</p>
 
