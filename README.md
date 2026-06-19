@@ -9,6 +9,11 @@ Play Store와 App Store 제출에 필요한 공개 문서와 메타데이터를 
 - `privacy-policy-en.html`, `privacy-policy-en.md`: English privacy policy
 - `privacy-policy-zh-Hans.html`, `privacy-policy-zh-Hans.md`: 简体中文 privacy policy
 - `privacy-policy-ja.html`, `privacy-policy-ja.md`: 日本語 privacy policy
+- `privacy-policy-fr.html`, `privacy-policy-fr.md`: Français privacy policy
+- `privacy-policy-de.html`, `privacy-policy-de.md`: Deutsch privacy policy
+- `privacy-policy-es.html`, `privacy-policy-es.md`: Español privacy policy
+- `privacy-policy-pt.html`, `privacy-policy-pt.md`: Português privacy policy
+- `privacy-policy-pt-BR.html`, `privacy-policy-pt-BR.md`: Português (Brasil) privacy policy
 
 ## Publishing
 
@@ -28,6 +33,11 @@ https://cslovexp.github.io/margin-mate/privacy-policy.html
 https://cslovexp.github.io/margin-mate/privacy-policy-en.html
 https://cslovexp.github.io/margin-mate/privacy-policy-zh-Hans.html
 https://cslovexp.github.io/margin-mate/privacy-policy-ja.html
+https://cslovexp.github.io/margin-mate/privacy-policy-fr.html
+https://cslovexp.github.io/margin-mate/privacy-policy-de.html
+https://cslovexp.github.io/margin-mate/privacy-policy-es.html
+https://cslovexp.github.io/margin-mate/privacy-policy-pt.html
+https://cslovexp.github.io/margin-mate/privacy-policy-pt-BR.html
 ```
 
 ## Before Release
