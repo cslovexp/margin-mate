@@ -10,7 +10,7 @@ This Privacy Policy explains what information the App processes and how user dat
 
 The App does not require account registration and does not collect personal information that directly identifies users, such as name, phone number, email address, location information, contacts, or photos.
 
-The App does not use advertising SDKs, analytics SDKs, or social login SDKs, and does not transmit users' calculation data to an operating server.
+The App does not use advertising SDKs or social login SDKs, and does not transmit users' calculation data to an operating server. However, it may use Google Analytics for Firebase to improve service quality, analyze errors, and understand feature usage.
 
 ## 2. Data Processed in the App
 
@@ -57,13 +57,25 @@ Calculation history and settings stored in the App are kept on the user's device
 
 Users can delete stored data by using the deletion features in the App or by deleting the App. Files saved externally through backup or sharing must be deleted directly by the user from the relevant storage location or external app.
 
-## 9. Changes to This Privacy Policy
+## 9. App Usage Analytics
+
+The App may use Google Analytics for Firebase to improve service quality, analyze errors, and understand feature usage statistics.
+
+Information that may be processed includes app launch information, screen views, button click events, app version, device information, operating system information, app instance identifiers, and approximate region information.
+
+The App does not send user-entered costs, selling prices, margin rates, revenue, product names, memos, names, emails, phone numbers, or precise location information as Analytics events.
+
+Analytics information may be processed by Google LLC and retained according to Google's policies and Firebase settings.
+
+Users can limit some analytics collection through app or device settings, or stop collection by deleting the App.
+
+## 10. Changes to This Privacy Policy
 
 This Privacy Policy may be updated due to changes in App features, applicable laws, or store policies.
 
 If there are important changes, notice may be provided through in-app notices or distribution pages.
 
-## 10. Contact
+## 11. Contact
 
 For questions about this Privacy Policy or the App's data processing, please contact us at:
 

@@ -10,7 +10,7 @@ La présente Politique de confidentialité explique quelles informations l'Appli
 
 L'Application ne nécessite pas d'inscription de compte et ne collecte pas de données personnelles permettant d'identifier directement l'utilisateur, telles que le nom, le numéro de téléphone, l'adresse e-mail, les informations de localisation, les contacts ou les photos.
 
-L'Application n'utilise pas de SDK publicitaire, de SDK d'analyse ni de SDK de connexion sociale, et ne transmet pas les données de calcul de l'utilisateur à un serveur d'exploitation.
+L'Application n'utilise pas de SDK publicitaire ni de SDK de connexion sociale, et ne transmet pas les données de calcul de l'utilisateur à un serveur d'exploitation. Toutefois, elle peut utiliser Google Analytics for Firebase pour améliorer la qualité du service, analyser les erreurs et comprendre l'utilisation des fonctionnalités.
 
 ## 2. Données traitées dans l'Application
 
@@ -57,13 +57,19 @@ L'historique de calcul et les paramètres stockés dans l'Application restent su
 
 Les utilisateurs peuvent supprimer les données stockées en utilisant les fonctions de suppression de l'Application ou en supprimant l'Application. Les fichiers enregistrés à l'extérieur par sauvegarde ou partage doivent être supprimés directement par l'utilisateur depuis l'emplacement de stockage ou l'application externe concerné.
 
-## 9. Modifications de la présente Politique de confidentialité
+## 9. Analyse de l'utilisation de l'application
+
+L'Application peut utiliser Google Analytics for Firebase afin de comprendre l'utilisation des écrans et des fonctionnalités. Les données de calcul saisies par l'utilisateur, comme les prix, coûts, marges, noms de produits, catégories, notes ou historiques détaillés, ne sont pas envoyées comme événements d'analyse.
+
+Les identifiants publicitaires et les signaux de personnalisation publicitaire sont désactivés. Les événements d'analyse sont utilisés uniquement pour améliorer le produit, vérifier les erreurs et comprendre l'utilisation générale des fonctionnalités.
+
+## 10. Modifications de la présente Politique de confidentialité
 
 La présente Politique de confidentialité peut être mise à jour en raison de modifications des fonctions de l'Application, des lois applicables ou des politiques des stores.
 
 En cas de modifications importantes, un avis peut être fourni au moyen d'annonces dans l'Application ou sur les pages de distribution.
 
-## 10. Contact
+## 11. Contact
 
 Pour toute question concernant la présente Politique de confidentialité ou le traitement des données par l'Application, veuillez nous contacter à l'adresse suivante :
 

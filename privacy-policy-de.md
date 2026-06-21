@@ -10,7 +10,7 @@ Diese Datenschutzerklärung erläutert, welche Informationen die App verarbeitet
 
 Die App erfordert keine Kontoerstellung und erhebt keine personenbezogenen Daten, die Nutzer direkt identifizieren, wie Name, Telefonnummer, E-Mail-Adresse, Standortinformationen, Kontakte oder Fotos.
 
-Die App verwendet keine Werbe-SDKs, Analyse-SDKs oder Social-Login-SDKs und überträgt die Berechnungsdaten der Nutzer nicht an einen Betriebsserver.
+Die App verwendet keine Werbe-SDKs oder Social-Login-SDKs und überträgt die Berechnungsdaten der Nutzer nicht an einen Betriebsserver. Zur Verbesserung der Servicequalität, Fehleranalyse und Auswertung der Funktionsnutzung kann die App jedoch Google Analytics for Firebase verwenden.
 
 ## 2. In der App verarbeitete Daten
 
@@ -57,13 +57,25 @@ Berechnungsverlauf und Einstellungen, die in der App gespeichert sind, verbleibe
 
 Nutzer können gespeicherte Daten über die Löschfunktionen in der App oder durch Löschen der App entfernen. Extern durch Sicherung oder Teilen gespeicherte Dateien müssen vom Nutzer direkt am jeweiligen Speicherort oder in der externen App gelöscht werden.
 
-## 9. Änderungen dieser Datenschutzerklärung
+## 9. Analyse der App-Nutzung
+
+Die App kann Google Analytics for Firebase verwenden, um die Servicequalität zu verbessern, Fehler zu analysieren und Statistiken zur Funktionsnutzung zu verstehen.
+
+Zu den möglicherweise verarbeiteten Informationen gehören App-Startinformationen, Bildschirmaufrufe, Button-Klicks, App-Version, Geräteinformationen, Betriebssysteminformationen, App-Instanzkennungen und ungefähre Regionsinformationen.
+
+Die App sendet keine vom Nutzer eingegebenen Kosten, Verkaufspreise, Margenraten, Umsätze, Produktnamen, Notizen, Namen, E-Mail-Adressen, Telefonnummern oder genauen Standortinformationen als Analytics-Ereignisse.
+
+Analysedaten können von Google LLC verarbeitet und gemäß den Google-Richtlinien und Firebase-Einstellungen gespeichert werden.
+
+Nutzer können bestimmte Analysen über App- oder Geräteeinstellungen einschränken oder die Erfassung durch Löschen der App beenden.
+
+## 10. Änderungen dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung kann aufgrund von Änderungen der App-Funktionen, geltender Gesetze oder Store-Richtlinien aktualisiert werden.
 
 Bei wichtigen Änderungen kann ein Hinweis über In-App-Mitteilungen oder Vertriebsseiten bereitgestellt werden.
 
-## 10. Kontakt
+## 11. Kontakt
 
 Bei Fragen zu dieser Datenschutzerklärung oder zur Datenverarbeitung der App kontaktieren Sie uns bitte unter:
 

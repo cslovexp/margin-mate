@@ -57,13 +57,25 @@ O histórico de cálculo e as definições armazenados na Aplicação são manti
 
 Os utilizadores podem eliminar os dados armazenados utilizando as funcionalidades de eliminação da Aplicação ou apagando a Aplicação. Os ficheiros guardados externamente através de cópia de segurança ou partilha devem ser eliminados diretamente pelo utilizador a partir do local de armazenamento ou aplicação externa relevante.
 
-## 9. Alterações a esta Política de Privacidade
+## 9. Análise de utilização da aplicação
+
+A aplicação pode utilizar o Google Analytics for Firebase para melhorar a qualidade do serviço, analisar erros e compreender estatísticas de utilização das funcionalidades.
+
+As informações que podem ser tratadas incluem dados de abertura da aplicação, visualizações de ecrã, cliques em botões, versão da aplicação, informações do dispositivo, sistema operativo, identificadores de instância da aplicação e região aproximada.
+
+A aplicação não envia como eventos Analytics os custos, preços de venda, taxas de margem, receitas, nomes de produto, notas, nomes, e-mails, números de telefone ou localização precisa introduzidos pelo utilizador.
+
+As informações de análise podem ser tratadas pela Google LLC e conservadas de acordo com as políticas da Google e as definições do Firebase.
+
+O utilizador pode limitar alguma recolha através das definições da aplicação ou do dispositivo, ou parar a recolha eliminando a aplicação.
+
+## 10. Alterações a esta Política de Privacidade
 
 Esta Política de Privacidade pode ser atualizada devido a alterações nas funcionalidades da Aplicação, leis aplicáveis ou políticas das lojas.
 
 Se houver alterações importantes, poderá ser fornecido um aviso através de notificações na Aplicação ou páginas de distribuição.
 
-## 10. Contacto
+## 11. Contacto
 
 Para questões sobre esta Política de Privacidade ou o processamento de dados da Aplicação, contacte-nos em:
 

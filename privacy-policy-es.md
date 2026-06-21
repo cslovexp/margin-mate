@@ -10,7 +10,7 @@ Esta Política de privacidad explica qué información procesa la Aplicación y 
 
 La Aplicación no requiere registro de cuenta y no recoge información personal que identifique directamente a los usuarios, como nombre, número de teléfono, dirección de correo electrónico, información de ubicación, contactos o fotos.
 
-La Aplicación no utiliza SDK publicitarios, SDK de análisis ni SDK de inicio de sesión social, y no transmite los datos de cálculo de los usuarios a un servidor operativo.
+La Aplicación no utiliza SDK publicitarios ni SDK de inicio de sesión social, y no transmite los datos de cálculo de los usuarios a un servidor operativo. Sin embargo, puede usar Google Analytics for Firebase para mejorar la calidad del servicio, analizar errores y comprender el uso de las funciones.
 
 ## 2. Datos procesados en la Aplicación
 
@@ -57,13 +57,19 @@ El historial de cálculo y los ajustes almacenados en la Aplicación se conserva
 
 Los usuarios pueden eliminar los datos almacenados usando las funciones de eliminación de la Aplicación o eliminando la Aplicación. Los archivos guardados externamente mediante copia de seguridad o uso compartido deben ser eliminados directamente por el usuario desde la ubicación de almacenamiento o aplicación externa correspondiente.
 
-## 9. Cambios en esta Política de privacidad
+## 9. Análisis de uso de la aplicación
+
+La Aplicación puede usar Google Analytics for Firebase para comprender el uso de pantallas y funciones. Los datos de cálculo ingresados por el usuario, como precios, costos, márgenes, nombres de productos, categorías, notas o historiales detallados, no se envían como eventos de análisis.
+
+Los identificadores publicitarios y las señales de personalización de anuncios están desactivados. Los eventos de análisis se usan únicamente para mejorar el producto, verificar errores y comprender el uso general de las funciones.
+
+## 10. Cambios en esta Política de privacidad
 
 Esta Política de privacidad puede actualizarse debido a cambios en las funciones de la Aplicación, leyes aplicables o políticas de las tiendas.
 
 Si hay cambios importantes, se podrá proporcionar un aviso mediante notificaciones dentro de la Aplicación o páginas de distribución.
 
-## 10. Contacto
+## 11. Contacto
 
 Para preguntas sobre esta Política de privacidad o el procesamiento de datos de la Aplicación, contáctenos en:
 
